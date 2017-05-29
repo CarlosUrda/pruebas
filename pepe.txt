@@ -1,4 +1,0 @@
-arch1.txt
-arch2.txt
-pepe.txt
-bbbb
